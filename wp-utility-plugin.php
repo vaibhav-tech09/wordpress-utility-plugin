@@ -1,3 +1,5 @@
+// Shortcode to display custom utility content
+
 <?php
 /*
 Plugin Name: WP Utility Plugin
